@@ -1,5 +1,5 @@
 ### Hi there and Welcome 👋
 
 - 🔭 I’m Mubarak Wantimba ...
-- 🌱 A Ugandan Computer Scientist, Software Engineer, Mathematician, Medical Radiologist, Problem Solver, Father
+- 🌱 Ugandan Computer Scientist, Software Eng. , Mathematician, Medical Radiologist, Problem Solver, Father
 - 👯 Looking to solve the World's most urgent and hardest Problems by leveraging digital technologies  ...
